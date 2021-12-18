@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hvcong, 
 - 👀 I’m interested in calisthenics
-- 🌱 I’m currently learning web depvelop
+- 🌱 I’m currently learning web develop
 - 📫 How to reach me by email: hvcong101201@gmail.com
 
 <!---
