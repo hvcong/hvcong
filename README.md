@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning web develop
 - 📫 How to reach me by email: hvcong101201@gmail.com
 
-#My CV
-[Hoang-Van-Cong-TopCV.vn-250122.213242.pdf](https://github.com/hvcong/hvcong/files/7934364/Hoang-Van-Cong-TopCV.vn-250122.213242.pdf)
+#My CV: https://i.topcv.vn/hoangvancong?ref=4979036
 
 
 <!---
