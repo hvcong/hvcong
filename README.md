@@ -2,7 +2,6 @@
 - 👀 I’m interested in web developer (ReactJs)
 - 📫 How to reach me by email: hvcong101201@gmail.com
 
-#My CV: https://i.topcv.vn/hoangvancong?ref=4979036
 
 
 <!---
