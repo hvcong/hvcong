@@ -1,6 +1,4 @@
 
-<h1 align="center"&text_color=DC143C>Hello everyone</h1>
-
 <h3 align="left" >My Profile </h3>
 # Hello there! 👋🏻 I am Cong Hoang!  <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 I am a Web Developer<br>
